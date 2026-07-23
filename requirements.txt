@@ -1,0 +1,5 @@
+# Runtime dependencies for gpx_trail_wpt_b1.py
+# Versions are pinned for deterministic application-level dependency resolution.
+gpxpy==1.6.2
+geopy==2.5.0
+requests==2.34.2
